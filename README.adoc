@@ -1,0 +1,8 @@
+= Research Solidity Algorithms
+The purpose of this repo to be focused on searching Solidity different algorithms topics.
+:hide-uri-scheme:
+:toc: 
+:toclevels: 4 
+
+== Tokens Price Models
+

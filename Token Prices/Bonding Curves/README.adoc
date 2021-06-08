@@ -1,0 +1,10 @@
+=== Bonding Curves Models
+- 
+
+==== Articles
+- https://yos.io/2018/11/10/bonding-curves/[Bonding Curves Explained]
+- https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89[On Single Bonding Curves for Continuous Token Models]
+- https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e[Token Bonding Curves Explained]
+
+==== Open-source algorithms
+- 
